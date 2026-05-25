@@ -1,16 +1,40 @@
-# notesapp
+# 📝 Notes App (Flutter + SQLite)
 
-A new Flutter project.
+> A simple, fast and offline notes application built using Flutter and SQLite.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🆕 Create Notes
+- ✏️ Edit Notes
+- 🗑️ Delete Notes
+- 🎨 Custom Note Colors
+- 📅 Auto Date Stamp
+- 📱 Grid UI Layout
+- ⚡ Offline Storage (SQLite)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (UI Framework)
+- Dart (Programming Language)
+- SQLite (Local Database)
+- sqflite Package
+- Path Provider
+
+---
+
+## 🧠 Project Concept
+
+This app demonstrates how a real-world offline database system works in mobile apps:
+
+- Data is stored locally using SQLite
+- CRUD operations (Create, Read, Update, Delete)
+- Smooth UI with real-time updates using setState
+- Dialog-based input system
+
+---
+
+## 📂 Project Structure
