@@ -38,3 +38,12 @@ This app demonstrates how a real-world offline database system works in mobile a
 ---
 
 ## 📂 Project Structure
+
+lib/
+├── database/
+│ └── notes_database.dart
+├── screens/
+│ ├── notes_screen.dart
+│ ├── note_card.dart
+│ └── note_dialog.dart
+└── main.dart
